@@ -33,13 +33,13 @@ console.log(data1 * data2); // answer = 200
 console.log(data1 / data2); // answer = 2
 console.log(data1 % data2); // answer = 0 
 
-console.log(++data1); // answer = 21 pre increment +1
-console.log(--data2); // answer = 9 pre decrement -1
+console.log(++data1); // answer = 21 pre increament +1
+console.log(--data2); // answer = 9 pre decreament -1
 
 let data3 = 30;
 let data4 = 40;
-console.log(data3++); // answer = 30 post increment same data
-console.log(data4--); // answer = 40 post decrement same data
+console.log(data3++); // answer = 30 post increament same data
+console.log(data4--); // answer = 40 post decreament same data
 
 let data5 = 50;
 data5++ ; // 50+1
